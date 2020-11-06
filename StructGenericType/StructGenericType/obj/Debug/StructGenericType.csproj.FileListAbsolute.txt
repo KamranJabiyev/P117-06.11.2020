@@ -1,0 +1,6 @@
+E:\P117\StructGenericType\StructGenericType\bin\Debug\StructGenericType.exe.config
+E:\P117\StructGenericType\StructGenericType\bin\Debug\StructGenericType.exe
+E:\P117\StructGenericType\StructGenericType\bin\Debug\StructGenericType.pdb
+E:\P117\StructGenericType\StructGenericType\obj\Debug\StructGenericType.csprojAssemblyReference.cache
+E:\P117\StructGenericType\StructGenericType\obj\Debug\StructGenericType.exe
+E:\P117\StructGenericType\StructGenericType\obj\Debug\StructGenericType.pdb
